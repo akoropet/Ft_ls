@@ -6,11 +6,11 @@
 /*   By: akoropet <akoropet@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/04/29 21:35:26 by akoropet          #+#    #+#             */
-/*   Updated: 2019/04/30 18:11:54 by akoropet         ###   ########.fr       */
+/*   Updated: 2019/09/16 16:33:56 by akoropet         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft_ls.h"
+#include "../include/ft_ls.h"
 
 t_file	*print_list(t_data *data, t_file *file)
 {
@@ -36,6 +36,7 @@ t_file	*print_list(t_data *data, t_file *file)
 	}
 	return (tmp);
 }
+
 
 void	print_err(t_data *data)
 {

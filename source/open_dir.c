@@ -6,11 +6,11 @@
 /*   By: akoropet <akoropet@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/04/29 21:37:06 by akoropet          #+#    #+#             */
-/*   Updated: 2019/04/29 21:51:34 by akoropet         ###   ########.fr       */
+/*   Updated: 2019/09/16 16:19:23 by akoropet         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft_ls.h"
+#include "../include/ft_ls.h"
 
 void	open_dir_rec(t_data *data, char *d, char *path)
 {

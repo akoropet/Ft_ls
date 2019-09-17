@@ -6,14 +6,14 @@
 /*   By: akoropet <akoropet@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/04/22 15:52:08 by akoropet          #+#    #+#             */
-/*   Updated: 2019/04/29 22:12:08 by akoropet         ###   ########.fr       */
+/*   Updated: 2019/09/16 15:47:07 by akoropet         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef FT_LS_H
 # define FT_LS_H
 
-# include "./lib/libft/libft.h"
+# include "../lib/libft/libft.h"
 # include <limits.h>
 # include <dirent.h>
 # include <sys/types.h>

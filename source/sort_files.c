@@ -6,11 +6,11 @@
 /*   By: akoropet <akoropet@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/04/25 19:27:12 by akoropet          #+#    #+#             */
-/*   Updated: 2019/04/29 21:32:48 by akoropet         ###   ########.fr       */
+/*   Updated: 2019/09/16 16:19:30 by akoropet         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft_ls.h"
+#include "../include/ft_ls.h"
 
 t_file	*swap_list(t_file **prev1, t_file **prev2, t_file **f1, t_file **f2)
 {

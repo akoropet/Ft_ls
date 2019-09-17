@@ -6,11 +6,11 @@
 /*   By: akoropet <akoropet@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/04/01 03:36:17 by akoropet          #+#    #+#             */
-/*   Updated: 2019/04/30 18:18:55 by akoropet         ###   ########.fr       */
+/*   Updated: 2019/09/16 16:19:20 by akoropet         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft_ls.h"
+#include "../include/ft_ls.h"
 
 int		main(int ac, char **av)
 {

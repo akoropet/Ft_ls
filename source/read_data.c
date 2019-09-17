@@ -6,11 +6,11 @@
 /*   By: akoropet <akoropet@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/04/29 21:31:54 by akoropet          #+#    #+#             */
-/*   Updated: 2019/04/30 18:11:03 by akoropet         ###   ########.fr       */
+/*   Updated: 2019/09/16 16:19:28 by akoropet         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft_ls.h"
+#include "../include/ft_ls.h"
 
 void	several_path(t_data *data, int ac, char **av, int i)
 {

@@ -6,11 +6,11 @@
 /*   By: akoropet <akoropet@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/04/29 21:32:33 by akoropet          #+#    #+#             */
-/*   Updated: 2019/04/29 21:34:39 by akoropet         ###   ########.fr       */
+/*   Updated: 2019/09/16 16:19:18 by akoropet         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft_ls.h"
+#include "../include/ft_ls.h"
 
 char	ft_type(mode_t st_mode)
 {

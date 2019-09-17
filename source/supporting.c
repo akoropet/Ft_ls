@@ -6,11 +6,11 @@
 /*   By: akoropet <akoropet@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/04/29 21:40:40 by akoropet          #+#    #+#             */
-/*   Updated: 2019/04/29 21:50:13 by akoropet         ###   ########.fr       */
+/*   Updated: 2019/09/16 16:19:32 by akoropet         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft_ls.h"
+#include "../include/ft_ls.h"
 
 int		error(char *str, char sym)
 {
